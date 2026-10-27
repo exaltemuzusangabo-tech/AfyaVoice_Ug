@@ -1,0 +1,5 @@
+package org.afyavoice.app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
